@@ -1,4 +1,2 @@
 #Write your code here:
-======================= RESTART: E:/python works/hello.py ======================
-4
->>> 
+print(2+2) 
