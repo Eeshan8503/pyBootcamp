@@ -1,2 +1,2 @@
 #Write your code here:
-print(2+2) 
+print("hello world") 
